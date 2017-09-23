@@ -1,5 +1,6 @@
 # Librería Arduino QuickMedian
-Librería para Arduino que realiza el cálculo rápido de la mediana de un array en Arduino aplicando el algoritmo QuickSelect modificado por Wirth. <br />
+Librería para Arduino que realiza el cálculo rápido de la mediana de un array en Arduino aplicando el algoritmo QuickSelect modificado por Wirth.
+
 Más información https://www.luisllamas.es/libreria-arduino-quickmedian/
 
 ## Instrucciones de uso
