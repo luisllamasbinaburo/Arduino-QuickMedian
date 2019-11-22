@@ -53,7 +53,7 @@ T QuickMedian<T>::kthSmallest(T* data, int dataLength, int kth)
 			{
 				T t = data[j];
 				data[j] = data[i];
-				data[i] = data[j];
+				data[i] = t;
 				i++;
 				j--;
 			}
